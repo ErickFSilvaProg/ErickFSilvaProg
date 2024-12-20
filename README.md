@@ -1,4 +1,4 @@
-# Guia para uma carreira Full Stack com JS
+# Guia para uma carreira Full Stack com JS na DIO
 
 > ### JavaScrit, TypeScript, NodeJS e Banco de Dados
 
