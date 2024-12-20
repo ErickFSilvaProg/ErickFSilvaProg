@@ -1,4 +1,4 @@
-# Guia para uma carreira Full Stack com Java na DIO
+# Guia para a carreira Full Stack com Java na DIO
 
 - [x] Formação Lógica de Programação
 - [ ] Formação GitHub Certfification
